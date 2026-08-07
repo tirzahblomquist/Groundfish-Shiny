@@ -23,7 +23,7 @@ date: "2026-07-16"
 
 >This app was developed by Tirzah Blomquist, Kate Richerson, and Kayleigh Somers. For questions, please contact [kate.e.richerson@noaa.gov](mailto:kate.e.richerson@noaa.gov) or [kayleigh.somers@noaa.gov](mailto:kayleigh.somers@noaa.gov).
 
-<p style="text-align:center;">Last updated July 17, 2026</p>
+<p style="text-align:center;">Last updated August 2026</p>
 
 </div>
 
